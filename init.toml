@@ -28,6 +28,9 @@
 
     indk = "0{,0},0#0,!^F,o,O,e"
 
+    bootstrap_before = "myspacevim#before"
+    bootstrap_after = "myspacevim#after"
+    
 # Enable autocomplete layer
 [[layers]]
 name = 'autocomplete'
